@@ -10,6 +10,6 @@ import lombok.Setter;
 public class NoteCommand {
     private Long id;
     private RecipeCommand recipe;
-    private String recipeNotes;
+    private String recipeNotess;
 
 }
